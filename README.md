@@ -1,4 +1,8 @@
-### Hi there 👋
+## Welcome to my github profile page, I guess.
+
+I am a mostly a lurker and maybe working on projects that I shouldn't do publicly. Sorry about that if you came across them.
+
+You can contract me if you're one of the lucky one to find me on the chat platform that's marketed towards gamers
 
 <!--
 **CanInBad/CanInBad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
